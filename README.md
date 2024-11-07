@@ -6,7 +6,6 @@ Qiang Liu, Jun Yue, Yi Fang, Shaobo Xia, and Leyuan Fang, Senior Member, IEEE
 <div align="center">
     <img src="figure/framework.png" alt="framework" width="800"/>
 </div>
-align
 
 
 # Getting Started
