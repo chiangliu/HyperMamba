@@ -46,7 +46,7 @@ if you want to change the data path or model settings, please go to ``` params_u
 ## Citation
 
 ```
-
+Q. Liu, J. Yue, Y. Fang, S. Xia and L. Fang, "HyperMamba: A Spectral-Spatial Adaptive Mamba for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024, Art no. 5536514, doi: 10.1109/TGRS.2024.3482473.
 ```
 
 ## Acknowledgment
