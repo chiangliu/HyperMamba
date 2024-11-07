@@ -1,0 +1,30 @@
+MODEL:
+  TYPE: vssm
+  NAME: vssm_tiny
+  DROP_PATH_RATE: 0.2
+  NUM_CLASSES: 16
+  VSSM:
+    IN_CHANS: 200
+    EMBED_DIM: 96
+    DEPTHS: [1]
+    SSM_D_STATE: 16
+    SSM_DT_RANK: "auto"
+    SSM_RATIO: 1.0
+    SSM_FORWARDTYPE: "v0"
+    MLP_RATIO: 0.0
+    DOWNSAMPLE: "v2"
+    PATCHEMBED: "v1"
+    PATCH_SIZE: 1
+    SSM_RANK_RATIO: 2.0
+    SSM_ACT_LAYER: "silu"
+    SSM_CONV: 3
+    SSM_CONV_BIAS: True
+    SSM_DROP_RATE: 0.0
+    SSM_INIT: "v0"
+    SSM_FORWARDTYPE: "v2"
+    MLP_ACT_LAYER: "gelu"
+    MLP_DROP_RATE: 0.0
+    PATCH_NORM: True
+    NORM_LAYER: "ln"
+    GMLP: False
+

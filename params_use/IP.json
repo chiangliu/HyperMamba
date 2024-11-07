@@ -1,0 +1,23 @@
+{
+    "data": {
+        "data_path_prefix":"data",
+        "data_sign": "Indian",
+        "data_file": "Indian_10",
+        "patch_size": 13,
+        "batch_size": 64,
+        "num_classes": 16,
+        "pca": 200,
+        "dim_heads": 64,
+        "spectral_size": 200
+    },
+    "net": {
+        "trainer": "vmamba",
+        "model_config": "./config/HyperMamba/IP.yaml"
+    },
+    "train": {
+        "epochs": 50,
+        "lr": 0.001,
+        "weight_decay": 0
+    },
+    "uniq_name": "Indian_test"
+}

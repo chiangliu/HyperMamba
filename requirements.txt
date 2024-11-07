@@ -1,0 +1,13 @@
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+triton==2.2.0
+einops==0.8.0
+fvcore==0.1.5.post20221221
+mmengine==0.10.5
+numpy==1.26.3
+packaging==24.0
+pytest==8.1.1
+scikit-learn==1.5.2
+scipy==1.14.1
+timm==0.4.12
