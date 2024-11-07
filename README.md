@@ -2,8 +2,9 @@
 
 # HyperMamba: A Spectral-Spatial Adaptive Mamba for Hyperspectral Image Classification
 Qiang Liu, Jun Yue, Yi Fang, Shaobo Xia, and Leyuan Fang, Senior Member, IEEE
-
-![framework](figure/framework.png)
+<p>
+<img src="figure/framework.png" alt="teaser" width=90% height=90%>
+</p>
 
 # Getting Started
 
