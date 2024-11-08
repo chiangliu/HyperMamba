@@ -12,7 +12,7 @@ Qiang Liu, Jun Yue, Yi Fang, Shaobo Xia, and Leyuan Fang, Senior Member, IEEE
 
 ## step1: Environment Setup:
 
-To get started, we ecommend setting up a conda environment and installing dependencies via pip. Use the following commands to set up your environment
+To get started, we recommend setting up a conda environment and installing dependencies via pip. Use the following commands to set up your environment
 
 ```bash
 conda create -n hypermamba python==3.10
